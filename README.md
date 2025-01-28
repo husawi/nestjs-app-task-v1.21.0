@@ -7,8 +7,6 @@ $ git clone https://github.com/husawi/nestjs-app-task-v1.21.0.git
 
 $ npm install
 
-$ npm run build
-
 $ docker compose up OR docker-compose up
 
 ```
